@@ -448,7 +448,7 @@
     .call-to-action {
         min-height: 35vh;
         height: auto;
-        background-image: url(../images/bg-8.webp);
+        background-image: url(./images/bg-8.webp);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
