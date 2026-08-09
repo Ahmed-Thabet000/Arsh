@@ -681,6 +681,10 @@
         width: 60px;
     }
 
+    .pricing .pricing-card {
+        min-width: 26rem;
+    }
+
     .pricing .price-card {
         font-size: 48px;
         color: #47b2e4;
@@ -766,6 +770,10 @@
 
         .freq-asked-questions .section-cap {
             font-size: 14px;
+        }
+
+        .pricing .pricing-card {
+            min-width: 18rem;
         }
 
     }
